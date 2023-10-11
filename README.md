@@ -1,6 +1,6 @@
 # Statistical learning theory
 ## Markov Chain Monte Carlo Sampling
-<img align="right" height="120" src="https://github.com/majkevh/eth-stats-learning-fs23/blob/main/img/tsp.png"></img>
+<img align="right" height="110" src="https://github.com/majkevh/eth-stats-learning-fs23/blob/main/img/tsp.png"></img>
 <img align="right" height="120" src="https://github.com/majkevh/eth-stats-learning-fs23/blob/main/img/mcmc.png"></img>
 This project delves into various MCMC sampling techniques, which are detailed in the paper of [Andrieu, Freitas, Doucet, Jordan (2003)](https://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf). These methods are applied to two distinct problem domains: (1) image denoising with  underlying Ising suumption,  (2) the Traveling Salesman Problem.
 <br/><br/>
